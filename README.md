@@ -4,7 +4,7 @@ CablePro is a modern, responsive, and feature-rich management system designed sp
 
 ## 📸 Preview
 
-![Dashboard Preview](https://via.placeholder.com/1200x600?text=CablePro+Dashboard+Preview)
+![Dashboard Preview](https://github.com/N-gokulnath/cablepro/blob/main/src/dashboard.png)
 *High-resolution dashboard preview showing real-time analytics and management controls.*
 
 ## ✨ Key Features
