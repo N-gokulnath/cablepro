@@ -29,7 +29,7 @@ CablePro is a modern, responsive, and feature-rich management system designed sp
 
 #Documentation <br>
 <a href="https://github.com/N-gokulnath/cablepro/blob/main/CablePro_Documentation%20.pdf">Link</a>
-<iframe src="https://github.com/N-gokulnath/cablepro/blob/main/CablePro_Documentation%20.pdf" title="documentation" width="500" height="300"></iframe>
+
 
 Developed with ❤️ for the Cable TV community.
 "# cablepro" 
